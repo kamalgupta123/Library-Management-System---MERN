@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.6deb5ubuntu0.5
+ */
+
+// Database 'ebook'
+
+// ebook.about_us
+
+[{"id":"1","about_us_text":"We provide online service of library you can view all the ebooks online"}]
